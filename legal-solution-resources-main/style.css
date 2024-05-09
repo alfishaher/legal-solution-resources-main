@@ -1,0 +1,12 @@
+.justice {
+  font-family: EB Garamond;
+}
+* {
+  font-family: "Poppins", sans-serif;
+}
+.banner {
+  background-image: url(images/banner.png);
+}
+.collaps {
+  visibility: visible;
+}
